@@ -1,4 +1,7 @@
-# Node_js_blog With React front-End
+# I tried to make changes on an old project , but it dose not work.
+
+#But the way to to clone it and run it is the same.
+#So I let the old text here onder:
 
 ## The application, in few words:\_
 
